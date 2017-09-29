@@ -1,0 +1,23 @@
+{
+  "name": "node_spider_music",
+  "version": "1.0.0",
+  "description": "node.js爬取网页音乐评论数前十的歌曲",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "rianbow",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "moment": "^2.18.1",
+    "mysql": "^2.14.1",
+    "node-notifier": "^5.1.2",
+    "request": "^2.83.0",
+    "superagent": "^3.6.0"
+  }
+}

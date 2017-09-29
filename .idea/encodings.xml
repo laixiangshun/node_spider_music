@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/code/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/singer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/song.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/mysql.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/singer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/song.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mysql/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/song.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/util/index.js" charset="UTF-8" />
+  </component>
+</project>
